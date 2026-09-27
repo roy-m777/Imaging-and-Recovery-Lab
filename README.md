@@ -37,7 +37,7 @@ Remote bench management
 Unattended automation scripting
 
 ## Project Status and Completion
-### In Progress
+### *In Progress*
 
 This lab is currently being expanded on. Additional documentation, troubleshooting scenarios, and ticket examples will be added as the environment develops.
 
