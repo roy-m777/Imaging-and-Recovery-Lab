@@ -43,10 +43,10 @@ This lab is currently being expanded on. Additional documentation, troubleshooti
 
 ### Completion 
 
-[X] Safely disassembled the HP Compaq for cleaning and thermal paste reapplication, then it was reassembled and powered on with a monitor and keyboard
-[x] 
-[/]
-[\]
-[ ] 
+- [X] Safely disassembled the HP Compaq for cleaning and thermal paste reapplication, then it was reassembled and powered on with a monitor and keyboard
+- [x] 
+- [/]
+- [\]
+- [ ] 
 
 ## Ticket Log and Troubleshooting
