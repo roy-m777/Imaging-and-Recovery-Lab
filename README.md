@@ -43,10 +43,8 @@ This lab is currently being expanded on. Additional documentation, troubleshooti
 
 ### Completion 
 
-- [X] Safely disassembled the HP Compaq for cleaning and thermal paste reapplication, then it was reassembled and powered on with a monitor and keyboard
-- [x] 
-- [/]
-- [\]
+- [x] Safely disassembled the HP Compaq for cleaning and thermal paste reapplication, then it was reassembled and powered on with a monitor and keyboard
+- [x] Created an AMD 64 bootable USB drive containing Clonezilla using Rufus
 - [ ] 
 
 ## Ticket Log and Troubleshooting
