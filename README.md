@@ -9,13 +9,13 @@ To achieve a bare-metal drive cloning station using Clonezilla. This bench shoul
 
 ## Lab Environment 
 
-An HP Compaq DC5800 from 2008 running with just the motherboard, CPU, CPU cooler, RAM, PSU, and an 80gb HDD
-
-2 GB of DDR2 memory
-6 USB 2.0 ports - 30-45 MB/s bottleneck
-Clonezilla Live
-Legacy BIOS 
-Rufus 
+- An HP Compaq DC5800 from 2008 running with just the motherboard, CPU, CPU cooler, RAM, PSU, and an 80gb HDD
+- 
+- 2 GB of DDR2 memory
+- 6 USB 2.0 ports - 30-45 MB/s bottleneck
+- Clonezilla Live
+- Legacy BIOS 
+- Rufus 
 
 ## Infrastructure Build Log
 
@@ -27,14 +27,14 @@ Rufus
 
 ## Planned Support Scenarios
 
-Mass OS deployments and upgrades
-Failing drive recoveries
-Hardware modernization
-Premature OS upgrade backups
-Offline recovery
-Network share image backups
-Remote bench management
-Unattended automation scripting
+- Mass OS deployments and upgrades
+- Failing drive recoveries
+- Hardware modernization
+- Premature OS upgrade backups
+- Offline recovery
+- Network share image backups
+- Remote bench management
+- Unattended automation scripting
 
 ## Project Status and Completion
 ### *In Progress*
